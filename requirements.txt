@@ -1,0 +1,16 @@
+# Core ML / data
+numpy
+pandas
+scikit-learn
+
+# Web UI
+streamlit
+plotly
+
+# System / monitoring helpers (if you use them)
+psutil
+
+# Optional: if you used these in your backend/UI
+# streamlit-autorefresh
+# matplotlib
+# seaborn
