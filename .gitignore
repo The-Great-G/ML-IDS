@@ -1,0 +1,45 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env/
+.venv/
+env/
+ENV/
+
+# Environment / secrets
+*.env
+.env.*
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter / notebooks (if you ever add them)
+.ipynb_checkpoints/
+
+# Logs and temp data
+*.log
+logs/
+tmp/
+temp/
+
+# Python packaging
+build/
+dist/
+*.egg-info/
+
+# Streamlit cache
+.streamlit/
+
+# Model artifacts (optional - track only final versions)
+models/*.tmp
+checkpoints/
